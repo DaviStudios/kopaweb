@@ -1,15 +1,15 @@
 TITLE=MASO●PROFIT
 DESC=Nejvíc PROFI řeznictví v Česku
-H=C[R]MASO●PROFIT
-H=C[Y]Proč my?
+H=S[B]C[R]MASO●PROFIT
+H=S[B]C[Y]Proč my?
 L= C[R]Kvalitní maso
 L= C[P]Stroje a mašiny
 L= C[B]Ostré, kvalitní nože
 SEP
-H=C[Y]Kontakt
-H= C[Y]E-Shop a Zákaznická Podpora:
+L=S[B]C[Y]Kontakt
+L= S[B]C[Y]E-Shop a Zákaznická Podpora:
 L=  C[B]+420 284 000 239
 L=  C[R]eshop@masoprofit.cz
-H= C[Y]Servis:
+L= S[B]C[Y]Servis:
 L=  C[B]+420 284 000 212
 L=  C[R]servis@masoprofit.cz
