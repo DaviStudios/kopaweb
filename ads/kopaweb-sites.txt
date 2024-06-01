@@ -1,8 +1,9 @@
 TITLE=KopaWeb Sites
 DESC=Best sites in KopaWeb!
+ORG=KopaWeb
 AD=kopaweb.sites
 W=Why us?
 R=Great Quality!
 B=Cheap Prices!
 RB=The only ones at the moment!
-RG=JUST. THE. BEST!
+RG=A free tier!
