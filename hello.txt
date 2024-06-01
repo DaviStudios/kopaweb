@@ -1,0 +1,4 @@
+TITLE=Hello!
+DESC=This is the first ever page!
+W=Yeah so i made this for fun!
+R=mhm
