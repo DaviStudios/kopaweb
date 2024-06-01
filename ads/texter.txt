@@ -1,1 +1,9 @@
-
+TITLE=KopaWeb Sites
+DESC=Best sites in KopaWeb!
+W=Why us?
+R=Great Quality!
+B=Cheap Prices!
+RB=The only ones at the moment!
+RG=JUST. THE. BEST!
+W=-------------
+R=Visit kopaweb-sites.kopa
