@@ -1,5 +1,5 @@
 TITLE=Hello!
 DESC=This is the first ever page!
-H=Test
+L=Test
 L=Test
 L=Test
