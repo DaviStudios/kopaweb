@@ -1,7 +1,6 @@
 TITLE=Hello!
 DESC=This is the first ever page!
-R=This
-G=Is
-B=So
-R=Fun
-G=!
+BW=Test
+RG=Test
+RB=Test
+SCRIPT=print('Test')
