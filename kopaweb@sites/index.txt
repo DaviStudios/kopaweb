@@ -1,1 +1,10 @@
-
+TITLE=KopaWeb Sites
+DESC=The best KopaWeb site host
+L=S[B]C[Y]Prices:
+L= C[G]Basic - S[B]C[Y]FREE!
+L= C[C]Advanced - S[B]C[Y]Unavaible
+L= C[P]Elite - S[B]C[Y]Unavaible
+SEP
+L=S[B]C[Y]Contact:
+L= S[B]C[R]EmailS[RS]: C[Y]davidkopal01@seznam.cz
+L= S[B]C[B]DiscordS[RS]: C[Y]None yet!
