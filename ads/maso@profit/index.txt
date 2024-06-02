@@ -1,6 +1,6 @@
 TITLE=MASO●PROFIT
 DESC=Nejlepší řeznictví v Česku
 ORG=MASO●PROFIT
-AD=maso.profit
+AD=maso@profit
 L=C[Y]Nejkvalitnější C[R]Maso C[RS] v C[R]ČeC[C]sC[RS]ku!
 L=C[Y]Kvalitní, C[R]ostré C[RS]nože!
