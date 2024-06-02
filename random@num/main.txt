@@ -1,5 +1,9 @@
 import random
 
-min = int(input('Minimal >'))
-max = int(input('Maximal >'))
-print(random.randint(min,max))
+while True:
+  min = int(input('Minimal >'))
+  max = int(input('Maximal >'))
+  if min != 'quit' or max != 'quit':
+    print(random.randint(min,max))
+  else:
+    break
