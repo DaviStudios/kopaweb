@@ -1,0 +1,4 @@
+TITLE=Random Number Generator
+DESC=This generates a random number based off user input
+ALOAD=/gen.py
+L=C[R]S[B]Enter in the minimal and maximal number!
